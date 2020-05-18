@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://shriram:1234@cluster0-vnje1.mongodb.net/test?retryWrites=true&w=majority",
-  "baseUrl": ""
+  "baseUrl": "https://5000-a3e043ef-477c-4318-a5ff-d2d6256be7b3.ws-us02.gitpod.io"
 }
